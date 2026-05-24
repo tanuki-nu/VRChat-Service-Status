@@ -4,7 +4,7 @@ VRChatのサーバー稼働状況を定期的にチェックし、ステータ�
 
 ## 導入方法
 1. リポジトリ内のVRChatServerStatusInstallLink.urlをダウンロードしてください。
-2.　VRChatServerStatusInstallLink.urlを実行してください。
+2. VRChatServerStatusInstallLink.urlを実行してください。
 3. Google DriveからVRChatServerStatus.exeをダウンロードしてください。
 
 ## 使い方
