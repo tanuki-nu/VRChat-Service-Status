@@ -2,6 +2,11 @@
 ## 概要
 VRChatのサーバー稼働状況を定期的にチェックし、ステータスが変化した際に通知を行うデスクトップアプリケーションです。
 
+## 導入方法
+1. リポジトリ内のVRChatServerStatusInstallLink.urlをダウンロードしてください。
+2.　VRChatServerStatusInstallLink.urlを実行してください。
+3. Google DriveからVRChatServerStatus.exeをダウンロードしてください。
+
 ## 使い方
 1. 本フォルダ内の `VRChatServerStatus.exe` を実行してください。
 2. アプリが起動すると、指定間隔ごとに自動でステータスを取得します。
